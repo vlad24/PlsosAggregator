@@ -1,0 +1,10 @@
+com.ruvla.plsos.agg.model
+com.ruvla.plsos.agg.model.aggctrl
+com.ruvla.plsos.agg.model.aggctrl.configurations
+com.ruvla.plsos.agg.model.aggctrl.defaults
+com.ruvla.plsos.agg.model.aggctrl.settable
+com.ruvla.plsos.agg.model.datapersist
+com.ruvla.plsos.agg.model.datasend
+com.ruvla.plsos.agg.model.dataview
+com.ruvla.plsos.agg.model.events
+com.ruvla.plsos.agg.model.logging

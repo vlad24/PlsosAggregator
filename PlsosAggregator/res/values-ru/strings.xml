@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlsosAggregator</string>
+    <string name="default_status_string">Готов к сбору!</string>
+    <string name="start_string">Старт</string>
+    <string name="stop_string">Стоп</string>
+    <string name="close_string">Закрыть</string>
+    <string name="log_string">Показать обновления</string>
+    <string name="log_updates_title">Обновления логов</string>    
+    <string name="send_string">Загрузить на сервер</string>
+    
+    <string name="tran_label">TranCount: </string>
+    <string name="tran_hint">Guaranteed portion of units received</string>
+    
+    <string name="threads_label">ThreadCount: </string>
+    <string name="threads_hint">Amount of threads for collection process</string>
+    
+  
+    <string name="saver_refresh_label">SaverRefresh: </string>
+    <string name="saver_refresh_hint">Refresh period for saver(seconds)</string>
+    
+    <string name="agg_launched">Aggregation has been launched!</string>
+    <string name="agg_stopped">"Aggregation has been stopped."</string>
+    <string name="param_input_format_error">"Check the formats of input values."</string>
+    <string name="param_input_logical_error">"Check the logical correctness of input values."</string>
+
+</resources>
