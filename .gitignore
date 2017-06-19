@@ -1,0 +1,14 @@
+.settings
+ignored
+gen
+bin
+assets
+.metadata
+.recommenders
+*.classpath
+*.class
+*.project
+*appcom*
+test/
+*Secret*
+*AndroidConfigurationProvider*
