@@ -1,5 +1,5 @@
 # PlsosAggregator
-Plsos is a framework for easier configuration of data collection in sensor nets with mobile collector.
+Plsos is Java framework for easier configuration of data collection in sensor nets with mobile collector.
 This repo contains collector part of the framework.
 
 * **PlsosAggregatorModel** is a core of the framework
